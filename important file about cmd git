@@ -26,3 +26,9 @@ git status
 check the commits list
 ********
 git log
+
+
+confilt paly github sy pull karna hai pir hum push kar sakty hai apna data
+**********
+git pull origin master --allow-unrelated-histories
+
