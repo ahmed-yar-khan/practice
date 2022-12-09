@@ -1,0 +1,28 @@
+create a new repo
+*******
+git init
+
+Commit  a file
+******
+git add .
+git commit -m "aapka message"
+
+add online repo link
+*********
+git remote add origin "aapki github repo ka link"
+
+Push the code
+*********
+git push origin master
+
+Pull the code
+*********
+git pull origin master
+
+check the repo status
+********
+git status
+
+check the commits list
+********
+git log
